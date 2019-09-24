@@ -26,6 +26,8 @@ wrapt = "==1.11.2"
 Django = "==2.2.5"
 djangorestframework = "*"
 django-rest-auth = {extras = ["with_social"],version = "*"}
+all-auth = "*"
+install = "*"
 
 [requires]
 python_version = "3.7"
