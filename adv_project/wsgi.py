@@ -1,5 +1,5 @@
 """
-WSGI config for team_2_mud project.
+WSGI config for avd_project project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'team_2_mud.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'avd_project.settings')
 
 application = get_wsgi_application()
