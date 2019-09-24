@@ -24,6 +24,8 @@ sqlparse = "==0.3.0"
 typed-ast = "==1.4.0"
 wrapt = "==1.11.2"
 Django = "==2.2.5"
+djangorestframework = "*"
+django-rest-auth = "*"
 
 [requires]
 python_version = "3.7"
