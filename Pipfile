@@ -18,8 +18,8 @@ python-decouple = "*"
 django-rest-api = "*"
 djangorestframework = "*"
 django-rest-auth = {extras = ["with_social"],version = "*"}
-django-all-auth = "*"
 django-cors-headers = "*"
+django-allauth = "*"
 
 [requires]
 python_version = "3.7"
